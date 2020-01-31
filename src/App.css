@@ -1,0 +1,18 @@
+.App
+{
+  display:inline-block;
+  margin: 10px;
+  border:1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 240px;
+  padding:25px;
+  background-color: linen;
+}
+
+.Button
+{
+  margin: 60px;
+  width: 100px;
+  height:55px;
+  background-color: #ccc;
+}
